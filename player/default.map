@@ -1,0 +1,28 @@
+[Objects]
+R ff0088 robot
+Y 00FF88 tree
+~ 0066BB water
+. FFFFFF food
+x FF0000 trap
+# 888800
+* FF00FF
+
+" FFFF00 sand
+ 
+[Map]
+~~~x... ~~
+  ~~  . ~~    *
+ ~~~~ . ~       *
+Y.... .~~
+ .YY...~    ...
+ ..YY###.....
+  .  *  .
+  .......
+"               ""          
+ "    **    """"
+""""""""""""
+fff
+            R
+
+
+
