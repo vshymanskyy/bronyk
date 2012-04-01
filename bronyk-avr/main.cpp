@@ -1,5 +1,5 @@
-#include "arduino/main.h"
-#include "arduino/Servo.h"
+#include "arduino/core/main.h"
+#include "arduino/core/Servo.h"
 
 class IController {
 
